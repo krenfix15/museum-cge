@@ -1,6 +1,6 @@
 # museum-cge
 
-3D Unity project designed to fit in the edutainment genre, simulating a first person museum/art gallery walkthrough, complete with "visitor" NPCs and audio clips offering detailed information about some of the exhibits.
+3D Unity project designed to fit in the edutainment genre, simulating a first person museum/art gallery walkthrough with "visitor" NPCs and audio clips offering detailed information about some of the exhibits.
 
 # What I Learned
 
